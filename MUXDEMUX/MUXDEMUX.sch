@@ -687,7 +687,7 @@ Wire Wire Line
 Wire Bus Line
 	3300 2050 3650 2050
 Text Notes 3000 1650 0    50   ~ 0
-PARITY
+Parity Bit
 Wire Wire Line
 	8100 3900 8100 4000
 Wire Wire Line
@@ -796,7 +796,7 @@ $EndComp
 Text Notes 9950 3900 0    50   ~ 0
 Address\nError
 Text Notes 5800 2750 2    50   ~ 0
-PARITY
+Parity Bit
 Wire Wire Line
 	2050 3050 1700 3050
 Wire Wire Line
